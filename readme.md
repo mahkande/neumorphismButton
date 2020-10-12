@@ -1,1 +1,1 @@
-![](https://github.com/mahkande/NeumorphismEffect/blob/master/Captured.gif)
+![](https://github.com/mahkande/neumorphismButton/blob/master/captured.gif)
